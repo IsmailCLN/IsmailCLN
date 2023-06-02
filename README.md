@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [PixelColorBot](https://github.com/IsmailCLN/PixelColorBot)
 
-- 🌱 I’m currently learning **C#, .Net Core, MSSQL**
+- 🌱 I’m currently learning **.Net, Entity Framework, MVC**
 
 - 👨‍💻 All of my projects are available at [https://www.ismailcelen.com/](https://www.ismailcelen.com/)
 
