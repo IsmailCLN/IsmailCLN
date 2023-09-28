@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ismail</h1>
 <h3 align="center">Backend developer from Turkey</h3>
 
-- 🔭 I’m currently working on [User Management Application](https://github.com/IsmailCLN/UserManagementApp)
+- 🔭 I’m currently working on [User Management Application](...)
 
-- 🌱 I’m currently learning **.Net, Entity Framework, MVC**
+- 🌱 I’m currently learning **Django Framework**
 
 - 👨‍💻 All of my projects are available at [https://www.ismailcelen.com/](https://www.ismailcelen.com/)
 
-- 💬 Ask me about **C#, Java**
+- 💬 Ask me about **C#, Python**
 
 - 📫 How to reach me **ismailcelen95@gmail.com**
 
